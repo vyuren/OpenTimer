@@ -1,6 +1,9 @@
 # OpenTimer
 
 Aplicativo leve para cronômetro e rotinas de temporizador configuráveis.
+### AVISO
+- Este projeto foi feito para fins de testes de engenharia de software. Houve uso de IA controlado para desenvolver este MVP;
+- Este projeto não será mais atualizado, portanto, fique a vontade para estudá-lo e construir sua própria aplicação seguindo as regras da licença GPL.
 
 ## Requisitos
 
